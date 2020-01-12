@@ -1,0 +1,60 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+test-env/
+.idea/workspace.xml
+.idea/dictionaries/Hashir.xml
+ESP8266/ESP8266_WebSocketClient/.vs/ESP8266_WebSocketClient/v14/.suo
+ESP8266/ESP8266_WebSocketClient/__vm/Compile.vmps.xml
+ESP8266/ESP8266_WebSocketClient/__vm/Compile.vmps.xml
+*.xml
+ESP8266/ESP8266_WebSocketClient/__vm/Upload.vmps.xml
+ESP8266/ESP8266_WebSocketClient/Debug/ESP8266_WebSocketClient.ino.elf
+*.bin
+ESP8266/ESP8266_WebSocketClient/Debug/ESP8266_WebSocketClient.elf
+*.bin
+*.xml
