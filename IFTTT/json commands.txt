@@ -1,6 +1,0 @@
-{"location":"kitchen","device":"computer", "state":"on","query":"cmd"}
-{"location":"kitchen","device":"computer", "state":"off","query":"cmd"}
-{"location":"kitchen","device":"fan", "state":"on","query":"cmd"}
-{"location":"kitchen","device":"fan", "state":"off","query":"cmd"}
-
-
